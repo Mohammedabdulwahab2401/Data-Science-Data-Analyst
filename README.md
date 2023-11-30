@@ -1,1 +1,1 @@
-# Python-intership
+# Data science/data analyst -  project
