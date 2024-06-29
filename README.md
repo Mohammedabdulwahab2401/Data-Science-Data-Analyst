@@ -1,1 +1,1 @@
-# Data science/data analyst -  project
+# Data science
